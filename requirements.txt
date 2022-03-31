@@ -5,4 +5,4 @@ jury>=2.1.0,<3.0
 numpy>=1.21.2
 seqeval==1.2.2
 tensorboardX==2.1
-transformers>=4.11.0,<4.16
+transformers>=4.11.0,<4.18
